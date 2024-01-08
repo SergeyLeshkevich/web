@@ -1,0 +1,7 @@
+algorithm: LFU
+capacity: 4
+url: jdbc:postgresql://localhost:5432/cash_db
+user: postgres
+password: admin
+driver: org.postgresql.Driver
+limit_car: 3
